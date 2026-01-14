@@ -9,9 +9,9 @@
 - LinkedIn profile updated with new headline, About section, and repo link
 
 **Screenshots:**
-![AWS Console Home](../images/day1_aws_console_home.png.png)  
-![Skill Builder Course Outline](../images/day1_skillbuilder_dashboard.png.png)  
-![GitHub Repo Home](../images/day1_github_repo_home.png.png)
+![AWS Console Home](../images/day1_aws_console_home.png)  
+![Skill Builder Course Outline](../images/day1_skillbuilder_dashboard.png)  
+![GitHub Repo Home](../images/day1_github_repo_home.png)
 
 **Takeaways:**
 - Setup took longer than expected due to region confusion, but everything works now
