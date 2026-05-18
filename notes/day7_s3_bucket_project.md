@@ -30,4 +30,4 @@
 - Proper resource cleanup is important to stay in Free Tier
 - Consistent daily practice is key to rebuilding momentum after a break
 
-**Next:** Day 8 – Deeper S3 features (storage classes, versioning, lifecycle policies)
+**Next:** Day 8 – Databases Module (Amazon RDS, DynamoDB, etc.)
