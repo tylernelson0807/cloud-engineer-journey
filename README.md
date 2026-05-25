@@ -1,6 +1,6 @@
 # Cloud Engineer Journey
 
-![AWS Cloud Practitioner Essentials Certificate](certificates/aws_cloud_practitioner_essentials_certificate.png)
+![AWS Cloud Practitioner Essentials Certificate](https://raw.githubusercontent.com/tylernelson0807/cloud-engineer-journey/main/certificates/aws_cloud_practitioner_essentials_certificate.png)
 
 **Self-Taught AWS Cloud Practitioner | Transitioning into Cloud Technology**
 
