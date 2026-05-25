@@ -1,21 +1,22 @@
 # Cloud Engineer Journey
 
-**Self-taught AWS Cloud Practitioner | Transitioning into Cloud Technology**
+![AWS Cloud Practitioner Essentials Certificate](certificates/aws_cloud_practitioner_essentials_certificate.png)
+
+**Self-Taught AWS Cloud Practitioner | Transitioning into Cloud Technology**
 
 Hi, I'm Tyler Nelson. I'm on a dedicated journey to build a career in AWS cloud engineering through consistent daily learning and hands-on practice.
 
-This repository documents my daily progress as I work toward the AWS Certified Cloud Practitioner certification.
+This repository documents my daily progress as I work toward the **AWS Certified Cloud Practitioner** certification and beyond.
 
-### Progress
-- Currently on **Day 11** of structured AWS training
-- Completing modules, hands-on labs, and documentation daily
-- Building practical skills in EC2, VPC, S3, RDS, IAM, Security Groups, CloudWatch, and more
+### Current Status
+- ✅ **Completed**: AWS Cloud Practitioner Essentials (full course + labs) – May 25, 2026
 
-### Labs & Projects
-Check the `/notes` folder for detailed daily entries with screenshots and takeaways from real AWS labs.
+### What You'll Find Here
+- **notes/** → Daily learning logs with screenshots and key takeaways
+- **images/** → All lab screenshots and progress visuals
+- **certificates/** → Official completion certificates
 
-**Current Goal:** Pass the AWS Cloud Practitioner certification by mid-June 2026.
-
-Open to connecting with others on similar journeys or entry-level cloud opportunities.
-
-Last updated: May 22, 2026
+### Next Steps
+- Pass the **AWS Certified Cloud Practitioner** exam
+- Begin the Solutions Architect Associate track
+- Build larger portfolio projects (Cloud Resume Challenge and more)
